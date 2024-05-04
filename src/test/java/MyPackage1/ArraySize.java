@@ -8,5 +8,6 @@ public class ArraySize
         System.out.println("The siz of array:" + size);
         System.out.println("Hai......");
         System.out.println("updated in prg");
+        System.out.println("This updated program will be in local file..")
     }
 }
